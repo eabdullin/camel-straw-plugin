@@ -1,0 +1,10 @@
+.idea
+CamelStraw/packages
+
+#Camel Straw plugin files
+camel-straw-plugin/build
+camel-straw-plugin/out
+*.jar
+*.class
+
+

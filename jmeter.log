@@ -1,0 +1,755 @@
+2019-02-21 11:49:04,725 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-02-21 11:49:04,774 INFO o.a.j.JMeter: Loading user properties from: E:\ENTech\apache-jmeter-5.0\bin\user.properties
+2019-02-21 11:49:04,781 INFO o.a.j.JMeter: Loading system properties from: E:\ENTech\apache-jmeter-5.0\bin\system.properties
+2019-02-21 11:49:04,787 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-02-21 11:49:04,787 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-02-21 11:49:04,787 INFO o.a.j.JMeter: java.version=1.8.0_191
+2019-02-21 11:49:04,787 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-02-21 11:49:04,787 INFO o.a.j.JMeter: os.name=Windows 10
+2019-02-21 11:49:04,787 INFO o.a.j.JMeter: os.arch=amd64
+2019-02-21 11:49:04,788 INFO o.a.j.JMeter: os.version=10.0
+2019-02-21 11:49:04,788 INFO o.a.j.JMeter: file.encoding=Cp1252
+2019-02-21 11:49:04,788 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-02-21 11:49:04,788 INFO o.a.j.JMeter: Available Processors =8
+2019-02-21 11:49:04,797 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-02-21 11:49:04,797 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-02-21 11:49:04,797 INFO o.a.j.JMeter: JMeterHome=E:\ENTech\apache-jmeter-5.0
+2019-02-21 11:49:04,797 INFO o.a.j.JMeter: user.dir  =E:\ENTech\camel-straw\camel-straw-plugin
+2019-02-21 11:49:04,798 INFO o.a.j.JMeter: PWD       =E:\ENTech\camel-straw\camel-straw-plugin
+2019-02-21 11:49:04,799 INFO o.a.j.JMeter: IP: 10.0.75.1 Name: DESKTOP-IKBHGQU FullName: DESKTOP-IKBHGQU
+2019-02-21 11:49:05,107 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-02-21 11:49:05,140 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-02-21 11:49:05,141 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-02-21 11:49:05,221 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-02-21 11:49:05,722 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-02-21 11:49:05,722 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-02-21 11:49:08,542 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:08,548 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:08,548 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:09,120 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-21 11:49:09,120 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-21 11:49:09,120 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-21 11:49:09,120 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-02-21 11:49:09,120 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-02-21 11:49:09,120 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-02-21 11:49:09,443 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-02-21 11:49:09,444 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file E:\ENTech\apache-jmeter-5.0\bin\proxyserver.jks
+2019-02-21 11:49:09,563 INFO o.a.j.s.FileServer: Default base='E:\ENTech\camel-straw\camel-straw-plugin'
+2019-02-21 11:49:10,303 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-02-21 11:49:10,303 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-02-21 11:49:10,303 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-02-21 11:49:10,303 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-02-21 11:49:10,394 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:10,394 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:10,394 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:10,394 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:10,395 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:10,404 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:21,525 INFO o.a.j.g.a.Load: Loading file: E:\ENTech\base-test.jmx
+2019-02-21 11:49:21,525 INFO o.a.j.s.FileServer: Set new base='E:\ENTech'
+2019-02-21 11:49:21,737 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-02-21 11:49:21,809 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-02-21 11:49:21,812 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-02-21 11:49:21,816 INFO o.a.j.s.SaveService: Loading file: E:\ENTech\base-test.jmx
+2019-02-21 11:49:21,867 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2019-02-21 11:49:21,887 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2019-02-21 11:49:21,978 WARN o.a.j.g.a.Load: Unexpected error. java.lang.IllegalArgumentException: Problem loading XML from:'E:\ENTech\base-test.jmx'. 
+Cause:
+NullPointerException: 
+
+ Detail:com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+java.lang.IllegalArgumentException: Problem loading XML from:'E:\ENTech\base-test.jmx'. 
+Cause:
+NullPointerException: 
+
+ Detail:com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:462) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.SaveService.loadTree(SaveService.java:435) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:130) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_191]
+Caused by: com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+	at org.apache.jmeter.save.ScriptWrapperConverter.createConversionException(ScriptWrapperConverter.java:102) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:96) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+Caused by: com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : java.lang.NullPointerException
+cause-message       : null
+class               : com.camelstraw.plugin.CamelStrawStatsListener
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.converters.TestElementConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+class[1]            : org.apache.jorphan.collections.ListedHashTree
+converter-type[1]   : org.apache.jmeter.save.converters.HashTreeConverter
+-------------------------------
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:79) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:94) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+Caused by: java.lang.NullPointerException
+	at java.util.Hashtable.get(Unknown Source) ~[?:1.8.0_191]
+	at java.util.Properties.getProperty(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jmeter.save.SaveService.aliasToClass(SaveService.java:296) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.converters.TestElementConverter.unmarshal(TestElementConverter.java:92) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:94) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+2019-02-21 11:49:22,027 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:22,040 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:49:43,380 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:51:47,556 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:51:53,434 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,443 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,444 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,444 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,447 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,473 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,473 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [#_samples]
+2019-02-21 11:51:53,474 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [median]
+2019-02-21 11:51:53,474 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [90%_line]
+2019-02-21 11:51:53,475 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [95%_line]
+2019-02-21 11:51:53,475 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [99%_line]
+2019-02-21 11:51:53,475 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [min]
+2019-02-21 11:51:53,475 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [error_%]
+2019-02-21 11:51:53,475 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [throughput]
+2019-02-21 11:51:53,475 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [received_kb/sec]
+2019-02-21 11:51:53,476 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [sent_kb/sec]
+2019-02-21 11:51:53,491 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:51:53,491 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:06,946 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:06,948 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:06,948 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [#_samples]
+2019-02-21 11:52:06,948 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [median]
+2019-02-21 11:52:06,948 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [90%_line]
+2019-02-21 11:52:06,948 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [95%_line]
+2019-02-21 11:52:06,949 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [99%_line]
+2019-02-21 11:52:06,949 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [min]
+2019-02-21 11:52:06,949 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [error_%]
+2019-02-21 11:52:06,949 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [throughput]
+2019-02-21 11:52:06,949 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [received_kb/sec]
+2019-02-21 11:52:06,949 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [sent_kb/sec]
+2019-02-21 11:52:06,954 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:06,954 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:08,381 ERROR o.a.j.JMeter: Uncaught exception: 
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(Unknown Source) ~[?:1.8.0_191]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jorphan.gui.ObjectTableModel.getValueAt(ObjectTableModel.java:187) ~[jorphan.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.getData(StatGraphVisualizer.java:638) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.makeGraph(StatGraphVisualizer.java:594) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.actionMakeGraph(StatGraphVisualizer.java:790) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.actionPerformed(StatGraphVisualizer.java:702) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.processEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.processEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_191]
+2019-02-21 11:52:12,277 ERROR o.a.j.JMeter: Uncaught exception: 
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(Unknown Source) ~[?:1.8.0_191]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jorphan.gui.ObjectTableModel.getValueAt(ObjectTableModel.java:187) ~[jorphan.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.getData(StatGraphVisualizer.java:638) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.makeGraph(StatGraphVisualizer.java:594) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.actionMakeGraph(StatGraphVisualizer.java:790) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.actionPerformed(StatGraphVisualizer.java:702) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.processEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.processEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_191]
+2019-02-21 11:52:26,398 ERROR o.a.j.JMeter: Uncaught exception: 
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(Unknown Source) ~[?:1.8.0_191]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jorphan.gui.ObjectTableModel.getValueAt(ObjectTableModel.java:187) ~[jorphan.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.getData(StatGraphVisualizer.java:638) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.makeGraph(StatGraphVisualizer.java:594) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.actionMakeGraph(StatGraphVisualizer.java:790) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at org.apache.jmeter.visualizers.StatGraphVisualizer.lambda$init$1(StatGraphVisualizer.java:545) ~[ApacheJMeter_components.jar:5.0 r1840935]
+	at javax.swing.JTabbedPane.fireStateChanged(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.JTabbedPane$ModelListener.stateChanged(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.DefaultSingleSelectionModel.fireStateChanged(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.DefaultSingleSelectionModel.setSelectedIndex(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.JTabbedPane.setSelectedIndexImpl(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.JTabbedPane.setSelectedIndex(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.plaf.basic.BasicTabbedPaneUI$Handler.mousePressed(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.processEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.processEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.access$500(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) ~[?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_191]
+2019-02-21 11:52:35,853 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:35,853 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [#_samples]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [median]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [90%_line]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [95%_line]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [99%_line]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [min]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [error_%]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [throughput]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [received_kb/sec]
+2019-02-21 11:52:35,854 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [sent_kb/sec]
+2019-02-21 11:52:35,961 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [label]
+2019-02-21 11:52:35,961 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [#_samples]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [median]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [90%_line]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [95%_line]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [99%_line]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [min]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [error_%]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [throughput]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [received_kb/sec]
+2019-02-21 11:52:35,962 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [sent_kb/sec]
+2019-02-21 11:52:41,548 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:52:41,563 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 11:52:42,521 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 12:37:46,767 INFO o.a.j.g.a.Load: Loading file: E:\ENTech\base-test.jmx
+2019-02-21 12:37:46,769 INFO o.a.j.s.FileServer: Set new base='E:\ENTech'
+2019-02-21 12:37:46,769 INFO o.a.j.s.SaveService: Loading file: E:\ENTech\base-test.jmx
+2019-02-21 12:37:46,800 WARN o.a.j.g.a.Load: Unexpected error. java.lang.IllegalArgumentException: Problem loading XML from:'E:\ENTech\base-test.jmx'. 
+Cause:
+NullPointerException: 
+
+ Detail:com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+java.lang.IllegalArgumentException: Problem loading XML from:'E:\ENTech\base-test.jmx'. 
+Cause:
+NullPointerException: 
+
+ Detail:com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:462) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.SaveService.loadTree(SaveService.java:435) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:130) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_191]
+Caused by: com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+	at org.apache.jmeter.save.ScriptWrapperConverter.createConversionException(ScriptWrapperConverter.java:102) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:96) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+Caused by: com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : java.lang.NullPointerException
+cause-message       : null
+class               : com.camelstraw.plugin.CamelStrawStatsListener
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.converters.TestElementConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+class[1]            : org.apache.jorphan.collections.ListedHashTree
+converter-type[1]   : org.apache.jmeter.save.converters.HashTreeConverter
+-------------------------------
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:79) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:94) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+Caused by: java.lang.NullPointerException
+	at java.util.Hashtable.get(Unknown Source) ~[?:1.8.0_191]
+	at java.util.Properties.getProperty(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jmeter.save.SaveService.aliasToClass(SaveService.java:296) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.converters.TestElementConverter.unmarshal(TestElementConverter.java:92) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:94) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+2019-02-21 12:37:46,836 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 12:37:46,851 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 12:38:34,746 INFO o.a.j.g.a.Load: Loading file: E:\ENTech\base-test.jmx
+2019-02-21 12:38:34,746 INFO o.a.j.s.FileServer: Set new base='E:\ENTech'
+2019-02-21 12:38:34,747 INFO o.a.j.s.SaveService: Loading file: E:\ENTech\base-test.jmx
+2019-02-21 12:38:34,756 WARN o.a.j.g.a.Load: Unexpected error. java.lang.IllegalArgumentException: Problem loading XML from:'E:\ENTech\base-test.jmx'. 
+Cause:
+NullPointerException: 
+
+ Detail:com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+java.lang.IllegalArgumentException: Problem loading XML from:'E:\ENTech\base-test.jmx'. 
+Cause:
+NullPointerException: 
+
+ Detail:com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:462) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.SaveService.loadTree(SaveService.java:435) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:130) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:88) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:70) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_191]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_191]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_191]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_191]
+Caused by: com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : com.thoughtworks.xstream.converters.ConversionException
+cause-message       : 
+first-jmeter-class  : org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67)
+class               : org.apache.jmeter.save.ScriptWrapper
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.ScriptWrapperConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+version             : 5.0 r1840935
+-------------------------------
+	at org.apache.jmeter.save.ScriptWrapperConverter.createConversionException(ScriptWrapperConverter.java:102) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:96) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+Caused by: com.thoughtworks.xstream.converters.ConversionException: 
+---- Debugging information ----
+cause-exception     : java.lang.NullPointerException
+cause-message       : null
+class               : com.camelstraw.plugin.CamelStrawStatsListener
+required-type       : com.camelstraw.plugin.CamelStrawStatsListener
+converter-type      : org.apache.jmeter.save.converters.TestElementConverter
+path                : /jmeterTestPlan/hashTree/hashTree/hashTree/com.camelstraw.plugin.CamelStrawStatsListener
+line number         : 623
+class[1]            : org.apache.jorphan.collections.ListedHashTree
+converter-type[1]   : org.apache.jmeter.save.converters.HashTreeConverter
+-------------------------------
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:79) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:94) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+Caused by: java.lang.NullPointerException
+	at java.util.Hashtable.get(Unknown Source) ~[?:1.8.0_191]
+	at java.util.Properties.getProperty(Unknown Source) ~[?:1.8.0_191]
+	at org.apache.jmeter.save.SaveService.aliasToClass(SaveService.java:296) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at org.apache.jmeter.save.converters.TestElementConverter.unmarshal(TestElementConverter.java:92) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.converters.collections.AbstractCollectionConverter.readItem(AbstractCollectionConverter.java:73) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.converters.HashTreeConverter.unmarshal(HashTreeConverter.java:67) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.ScriptWrapperConverter.unmarshal(ScriptWrapperConverter.java:94) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:70) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1486) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1466) ~[xstream-1.4.10.jar:1.4.10]
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:1337) ~[xstream-1.4.10.jar:1.4.10]
+	at org.apache.jmeter.save.SaveService.readTree(SaveService.java:452) ~[ApacheJMeter_core.jar:5.0 r1840935]
+	... 21 more
+2019-02-21 12:38:34,779 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]
+2019-02-21 12:38:34,788 WARN o.a.j.u.JMeterUtils: ERROR! Resource string not found: [camel_straw]

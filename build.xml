@@ -1,0 +1,30 @@
+<project>
+    <property name="lib.dir" value="lib"/>
+    <path id="classpath">
+        <fileset dir="${lib.dir}" includes="**/*.jar"/>
+    </path>
+
+    <target name="clean">
+        <delete dir="out"/>
+    </target>
+
+    <target name="compile" depends="clean">
+        <mkdir dir="out"/>
+        <mkdir dir="build"/>
+        <javac srcdir="src" destdir="out"  classpathref="classpath"/>
+    </target>
+    <target name="jar_stats" depends="compile">
+        <delete file="build/camel-straw-stats.jar"/>
+        <jar destfile="build/camel-straw-stats.jar">
+            <fileset dir="out/" includes="com/camelstraw/*.class"/>
+            <fileset dir="out/" includes="com/camelstraw/statsplugin/*.class"/>
+        </jar>
+    </target>
+    <target name="jar_gui" depends="compile">
+        <delete file="build/camel-straw.jar"/>
+        <jar destfile="build/camel-straw.jar">
+            <fileset dir="out/" includes="com/camelstraw/*.class"/>
+            <fileset dir="out/" includes="com/camelstraw/guiplugin/**"/>
+        </jar>
+    </target>
+</project>
